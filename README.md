@@ -50,9 +50,9 @@ WHAT THIS PROJECT INCLUDES
 
 
 
-================================================================
+
 HOW TO RUN THIS PROJECT
-================================================================
+
 
 REQUIREMENTS:
 - Python 3.x installed
@@ -80,9 +80,9 @@ TO RUN THE INTERACTIVE DASHBOARD:
 5. Enter customer details and click "PREDICT CHURN" to see 
    results
 
-================================================================
+
 KEY RESULTS SUMMARY
-================================================================
+
 
 - Dataset size: 7032 customers (after cleaning)
 - Overall churn rate: 26.5%
