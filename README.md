@@ -2,7 +2,6 @@
 CUSTOMER CHURN PREDICTION DASHBOARD
 
 PROJECT OVERVIEW
-================================================================
 
 This project analyzes customer behavior data from a telecom 
 company to predict customer churn (whether a customer will 
@@ -12,9 +11,8 @@ machine learning pipeline from raw data to business insights.
 Dataset: Telco Customer Churn dataset (7032 customers, 
 21 original features)
 
-================================================================
+
 WHAT THIS PROJECT INCLUDES
-================================================================
 
 1. Data Analysis
    - Data cleaning (handled missing values, fixed data types)
@@ -99,9 +97,8 @@ Top 3 churn drivers (confirmed by SHAP analysis):
 2. Contract type (month-to-month customers churn most)  
 3. Monthly/Total charges (higher charges increase churn risk)
 
-================================================================
+
 KEY LEARNINGS
-================================================================
 
 Through this project I learned the complete machine learning 
 workflow including data cleaning, exploratory analysis, 
@@ -113,9 +110,9 @@ score. I also learned how SHAP values provide more reliable
 feature importance than raw model coefficients, and built 
 my first interactive web dashboard using Streamlit.
 
-================================================================
+
 CHALLENGES FACED
-================================================================
+
 
 The biggest challenge was understanding evaluation metrics 
 (precision, recall, F1, ROC-AUC) conceptually rather than 
